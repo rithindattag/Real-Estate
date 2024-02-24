@@ -264,5 +264,19 @@
       "userEmail": "zain@gaintime.io",
       "createdAt": { "$date": "2023-06-14T20:11:01.081Z" },
       "updatedAt": { "$date": "2023-06-14T20:11:01.081Z" }
+    },
+    {
+      "_id": { "$oid": "648a1ed5d52203e45f037608" },
+      "title": "Redmond",
+      "description": "This is a good home to live",
+      "price": 10000,
+      "address": "Street 19",
+      "city": "Mumbai",
+      "country": "India",
+      "image": "https://res.cloudinary.com/dkg6ajfen/image/upload/v1686773421/ihdmmu9mjsors2rvlu4j.png",
+      "facilities": { "bedrooms": 5, "parkings": 5, "bathrooms": 8 },
+      "userEmail": "zain@gaintime.io",
+      "createdAt": { "$date": "2023-06-14T20:11:01.081Z" },
+      "updatedAt": { "$date": "2023-06-14T20:11:01.081Z" }
     }
   ]
